@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`uiReducer tests: uiReducer test for default switch case 1`] = `
+Immutable.Map {
+  "isFetching": false,
+}
+`;
+
+exports[`uiReducer tests: uiReducer test for startFetching 1`] = `
+Immutable.Map {
+  "isFetching": true,
+}
+`;
+
+exports[`uiReducer tests: uiReducer test for stopFetching 1`] = `
+Immutable.Map {
+  "isFetching": false,
+}
+`;

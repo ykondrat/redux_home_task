@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ui actions tests: startFetching test 1`] = `
+Object {
+  "type": "START_FETCHING",
+}
+`;
+
+exports[`ui actions tests: stopFetching test 1`] = `
+Object {
+  "type": "STOP_FETCHING",
+}
+`;
